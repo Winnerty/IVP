@@ -43,7 +43,7 @@
 
 **ИНСТРУМЕНТЫ**
 
-Java, Kotlin, Android Studio
+Java, Kotlin, Android Studio, Python, IntelliJ IDEA.
 
 **ЭТАПЫ РАБОТЫ**
 
